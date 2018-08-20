@@ -33,5 +33,7 @@ public class WordCount {
                 System.out.println(count + "\t" + word);
             }
         }
+
+        input.close();
     }
 }

@@ -1,4 +1,4 @@
-public class FactorialFindRecursion {
+public class FindFactorialRecursion {
     public static void main(String[] args) {
         int factorial = factorial(5);
         System.out.println(factorial);
